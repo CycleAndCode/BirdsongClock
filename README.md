@@ -14,7 +14,7 @@ Features:
 * automatically take into account DST (daylight saving time) for central Europe
 * play songs on full hours
 * play special scheduled songs
-* utilize power saving witch Light Sleep mode
+* utilize power saving with Light Sleep mode
 
 Because MP3-TF-16P's "sleep mode" refused to work properly whatever i tried (which is also reported by other users), a DPDT relay was used in order to disconnect it completely when not used.
 
